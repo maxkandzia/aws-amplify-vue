@@ -2,6 +2,7 @@
   <div>
     <HeroSection></HeroSection>
     <AboutMe></AboutMe>
+    <badges-section></badges-section>
     <FeatureSection></FeatureSection>
   </div>
 </template>
@@ -10,6 +11,7 @@
 import HeroSection from "./components/HeroSection.vue";
 import FeatureSection from "./components/FeatureSections.vue";
 import AboutMe from "./components/AboutMe.vue";
+import BadgesSection from "./components/BadgesSection.vue";
 
 export default {
   name: "App",
@@ -17,6 +19,7 @@ export default {
     HeroSection,
     AboutMe,
     FeatureSection,
+    BadgesSection,
   },
 };
 </script>
