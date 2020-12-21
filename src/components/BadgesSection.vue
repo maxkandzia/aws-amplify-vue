@@ -2,6 +2,13 @@
   <div class="flex flex-wrap justify-center">
     <div class="w-6/12 sm:w-4/12 px-4">
       <img
+        src="@/assets/Bilder/psmi.png"
+        alt="..."
+        class="max-w-full h-auto align-middle border-none"
+      />
+    </div>
+    <div class="w-6/12 sm:w-4/12 px-4">
+      <img
         src="@/assets/Bilder/aws-saa.png"
         alt="..."
         class="max-w-full h-auto align-middle border-none"
